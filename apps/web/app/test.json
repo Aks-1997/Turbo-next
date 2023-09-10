@@ -1,0 +1,71 @@
+{
+    "prouct": {
+        "id": 4380,
+        "category": "Mobile",
+        "subcategory": "Huii",
+        "name": "Hii",
+        "amount": 1,
+        "number_of_parts": 1,
+        "discounted_price": 0,
+        "selling_price": 790,
+        "currency": "USD",
+        "description": "Hiii",
+        "created_at": "2023-03-21 14:52:36",
+        "images": [
+            {
+                "index": 1,
+                "thumbnail_link": "https://some-other-link/image1.png",
+                "url_link": "https://some-other-link/image1.png"
+            },
+            {
+                "index": 3,
+                "thumbnail_link": "https://some-other-link/image3.png",
+                "url_link": "https://some-other-link/image3.png"
+            },
+            {
+                "index": 7,
+                "thumbnail_link": "https://some-other-link/image7.png",
+                "url_link": "https://some-other-link/image7.png"
+            },
+            {
+                "index": 4,
+                "thumbnail_link": "https://some-other-link/image4.png",
+                "url_link": "https://some-other-link/image4.png"
+            },
+            {
+                "index": 2,
+                "thumbnail_link": "https://some-other-link/image2.png",
+                "url_link": "https://some-other-link/image2.png"
+            },
+            {
+                "index": 5,
+                "thumbnail_link": "https://some-other-link/image5.png",
+                "url_link": "https://some-other-link/image5.png"
+            },
+            {
+                "index": 6,
+                "thumbnail_link": "https://some-other-link/image6.png",
+                "url_link": "https://some-other-link/image6.png"
+            }
+        ],
+        "attributes": [
+            {
+                "attribute": "Height",
+                "value": "53 cm"
+            },
+            {
+                "attribute": "Width",
+                "value": "40 cm"
+            },
+            {
+                "attribute": "Breadth",
+                "value": "66 cm"
+            }
+        ],
+        "google_review": {
+            "rate": "4.8/5",
+            "text" : "Google Reviews"
+        },
+        "header_title" : "Over 10.000 !" 
+    }
+}
